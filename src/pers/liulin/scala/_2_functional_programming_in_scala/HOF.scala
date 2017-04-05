@@ -1,4 +1,4 @@
-package pers.liulin.scala_2
+package pers.liulin.scala._2_functional_programming_in_scala
 
 /**
   * Created by LiuLin on 2017/3/26 0026.
